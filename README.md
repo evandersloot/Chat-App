@@ -1,6 +1,6 @@
 # Chat-App
 
-!'/chat-app.webm'
+![Chat-App](https://user-images.githubusercontent.com/83362705/138174116-cb82df0b-88c9-486d-8666-db6cc2d23e58.gif)
 
 # Objective
 To build a chat app for mobile devices using React Native. The app will
