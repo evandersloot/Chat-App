@@ -1,6 +1,7 @@
 # Chat-App
 
-![Chat-App](https://user-images.githubusercontent.com/83362705/138174116-cb82df0b-88c9-486d-8666-db6cc2d23e58.gif)
+![Chat-App1](https://user-images.githubusercontent.com/83362705/138322948-802b1871-1bb0-4dbd-9999-e16af4b0e1ec.gif)
+
 
 # Objective
 To build a chat app for mobile devices using React Native. The app will
