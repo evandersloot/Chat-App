@@ -68,7 +68,7 @@ development.
 * Run expo start in root folder of app
 * Scan QR code
 * App will open when expo is finished bundling
-  *OR
+   * OR
 * Download Android Simulator or XCode which include an iOS Sumiulator
 * On left side of Expo click "Run on iOS Simulator" or "Run on Android device/emulator"
 
