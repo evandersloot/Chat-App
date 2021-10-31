@@ -46,6 +46,32 @@ development.
   and location data.
 * Data gets stored online and offline.
 
+# Getting Started
+* Node.js
+* Install Expo CLI
+  * npm install expo-cli -global
+# Setting up Dependencies
+*npm install --save react-navigation
+*npm install @react-navigation/native @react-navigation/stack
+*expo install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+*npm install react-native-gifted-chat --save
+*npm install firebase@8.2.3 --save
+*expo install @react-native-community/async-storage
+*expo install @react-native-community/netinfo
+*expo install expo-permissions
+*expo install expo-image-picker
+*expo install expo-location
+*expo install react-native-maps
+
+# Running the App
+* Download Expo on mobile or tablet
+* Run expo start in root folder of app
+* Scan QR code
+* App will open when expo is finished bundling
+  *OR
+* Download Android Simulator or XCode which include an iOS Sumiulator
+* On left side of Expo click "Run on iOS Simulator" or "Run on Android device/emulator"
+
 # Technical Requirements
 * The app must be written in React Native.
 * The app must be developed using Expo.
