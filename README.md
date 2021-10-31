@@ -51,17 +51,17 @@ development.
 * Install Expo CLI
   * npm install expo-cli -global
 # Setting up Dependencies
-*npm install --save react-navigation
-*npm install @react-navigation/native @react-navigation/stack
-*expo install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
-*npm install react-native-gifted-chat --save
-*npm install firebase@8.2.3 --save
-*expo install @react-native-community/async-storage
-*expo install @react-native-community/netinfo
-*expo install expo-permissions
-*expo install expo-image-picker
-*expo install expo-location
-*expo install react-native-maps
+* npm install --save react-navigation
+* npm install @react-navigation/native @react-navigation/stack
+* expo install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+* npm install react-native-gifted-chat --save
+* npm install firebase@8.2.3 --save
+* expo install @react-native-community/async-storage
+* expo install @react-native-community/netinfo
+* expo install expo-permissions
+* expo install expo-image-picker
+* expo install expo-location
+* expo install react-native-maps
 
 # Running the App
 * Download Expo on mobile or tablet
